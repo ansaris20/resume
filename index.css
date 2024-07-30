@@ -1,0 +1,40 @@
+h1 {
+  text-align: center;
+}
+a {
+  margin-left: 50px;
+}
+
+.su {
+  margin-right: 50px;
+}
+li {
+  margin-right: 50px;
+}
+.na {
+  margin-right: 50px;
+  margin-top: 50px;
+  margin-bottom: 200px;
+}
+
+h2 {
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+h3 {
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+hr {
+  margin: 20px;
+}
+
+table {
+  margin-bottom: 20px;
+  border-width: 20px;
+  border: 20px solid 0;
+  border-spacing: 20px;
+}
+th {
+  border-bottom: 20px;
+}
